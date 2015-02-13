@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# Unreal Engine Directories
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
